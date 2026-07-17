@@ -209,11 +209,8 @@ http://localhost:3000
 
 # 🖼 Application Screenshots
 
-> Replace these images with your screenshots after completing the project.
 
-| Home Page |
-|------------|
-| ![](screenshots/home.png) |
+
 
 | Register | Login |
 |-----------|-------|
@@ -231,11 +228,8 @@ http://localhost:3000
 |-----------|
 | ![](screenshots/transfer.png) |
 
-| Transaction History |
-|----------------------|
-| ![](screenshots/history.png) |
 
----
+
 
 # 🏗 System Architecture
 
